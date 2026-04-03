@@ -1,0 +1,2 @@
+# handwriting_author_verification
+Handwriting author verification using Seamese networks
